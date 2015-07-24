@@ -2,7 +2,8 @@
 layout: post
 title: NSKeyedArchiver/Unarchiver
 ---
-Lately I've spent some time wrtiting an app for myself. It is supposed to let you create tasks, mark them as done/undone and then track your progress. I've called it "Habit Tracker" and it is available here: https://github.com/Eluss/HabitTracker. While writing this utility I came across a few interesting issues and this blogpost will cover one of them.
+Lately I've spent some time wrtiting an app for myself. It is supposed to let you create tasks, mark them as done/undone and then track your progress. I've called it "Habit Tracker" and it is available
+<a href="https://github.com/Eluss/HabitTracker" target="_blank">here</a>. While writing this utility I came across a few interesting issues and this blogpost will cover one of them.
 
 ###Saving and Loading data
 
