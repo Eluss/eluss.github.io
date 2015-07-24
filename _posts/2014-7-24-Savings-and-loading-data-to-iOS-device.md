@@ -19,13 +19,12 @@ Now lets create out example Task class.
 
 <script src="https://gist.github.com/Eluss/0ee3bc08b6805c36c61d.js"></script>
 
-####NSKeyedArchiver
 Now we are able to properly store out tasks in files.
 
-######Saving
+####Saving
 <script src="https://gist.github.com/Eluss/ad7b1e1d00f9a49f8978.js"></script>
 
-######Loading
+####Loading
 <script src="https://gist.github.com/Eluss/565c38f567ab5482202b.js"></script>
 
 If we use iOS Simulator, all files that are saved by us are stored in our app's folder. Using my saving code you will find file named "FILE_NAME" under:
