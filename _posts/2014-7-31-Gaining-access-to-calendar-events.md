@@ -2,7 +2,6 @@
 layout: post
 title: Event Kit: Gaining access to calendar events
 ---
-##Event kit
 If you want to gain access to your calendar events it's time to use EventKit. EventKit allows you to do multiple operations with calendar events and reminders. In this post I will cover gaining access to existing events in your calendar.
 
 ####Getting access to events in your calendar
