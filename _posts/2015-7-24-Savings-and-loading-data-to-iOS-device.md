@@ -19,7 +19,7 @@ Now lets create out example Task class.
 
 <script src="https://gist.github.com/Eluss/0ee3bc08b6805c36c61d.js"></script>
 
-Now we are able to properly store out tasks in files.
+Now we are able to properly store our tasks in files.
 
 ####Saving
 <script src="https://gist.github.com/Eluss/ad7b1e1d00f9a49f8978.js"></script>
@@ -29,7 +29,7 @@ Now we are able to properly store out tasks in files.
 
 If we use iOS Simulator, all files that are saved by us are stored in our app's folder. Using my saving code you will find file named "FILE_NAME" under:
 
-Library/Developer/CoreSimulator/Devices/{DEVICE_ID}/data/Containers/Data/Application/{APP_ID}/Documents
+/Library/Developer/CoreSimulator/Devices/{DEVICE_ID}/data/Containers/Data/Application/{APP_ID}/Documents
 
 By using this command you can get your currently running iOS Simulator ID:
 <script src="https://gist.github.com/Eluss/d10d6e783bd5c17dfee3.js"></script>
