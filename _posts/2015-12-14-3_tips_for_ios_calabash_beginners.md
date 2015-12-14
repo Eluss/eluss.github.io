@@ -17,8 +17,4 @@ There are many ways of refering to UI components while writing tests in Calabash
 
 After installing Calabash, you should take a look at predefined steps that are provided by Calabash. They are stored in installation's directory under `features` folder. This can be really helpful at early stages of your journey. Using these steps you can try to write your own custom steps and use them for your first tests. It is not recommended to use prefedined steps for complex testing, but they can surely give you some hint at the beginning.
 
-
-
-
-
-
+This article is cross-posted with my [my company blog](http://blog.brightinventions.pl/)
