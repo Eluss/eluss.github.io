@@ -4,7 +4,7 @@ title: Custom XCode key bindings
 ---
 When I started writing Swift code, I found out that my beloved IDE(AppCode) for Objective-C, was not doing as well as I thought it would. Moreover, I've noticed that XCode did better job in terms of handling CocoaPods, autocompletion, debugging etc. It was more than enough for me to say sorry to XCode and leave AppCode for some time to let it solve it's problems. I really miss it's Objective-C features like code refactoring and it's ability to generate code, but there is no place for sentimentality. Currently I'm proud user of XCode 7.3 beta and I really like it's new autocompletion feature.
 
-After coming back to XCode I found out that I was really used to keybinding that AppCode provided. Some of them were also available in XCode (Moving lines up/down) and it was just a matter of changing the keys binded to a shortcut, but some of them were missing. Where was my line duplication? Where was my lines juming? Luckily for me, I could add those by myself.
+After coming back to XCode I found out that I was really used to keybindings that AppCode provided. Some of them were also available in XCode (Moving lines up/down) and it was just a matter of changing the keys binded to a shortcut, but some of them were missing. Where was my line duplication? Where was my lines juming? Luckily for me, I could add those by myself.
 
 ####Adding custom keybindings
 Thre is an easy way of adding your custom key bindings to your XCode. In order to do this, you have to follow this steps:
