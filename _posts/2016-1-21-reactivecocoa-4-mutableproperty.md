@@ -10,15 +10,18 @@ Let's assume, that we want to create a bank account balance variable, that we wi
 
 MutableProperty has three fields that we are especially interested in.
 
-###Value
+Value
+---
 First one is `value`, which grants us access to a current value of our property. Everytime we change a this value, all observers of signals created by a producer get notified about it.
 
-###Producer
+Producer
+---
 Second field is `producer`, which is a factory for started signals which we use in order to track our property. Lets use our factory to create a signal out of our MutableProperty.
 <script src="https://gist.github.com/Eluss/8e0402d073d48e42fd88.js"></script>
 Everytime our property changes, it will be printed. If property is deinitialized, signals created by producer are completed.
 
-###Observer
+Observer
+---
 Our `observer` is initialized as a buffer with a capacity of 1. What does it mean? When we set our value, we also push it to an observer. Our observer has an internal buffer, which in this case remembers last pushed value. This value will be passed to observer every time producer starts a new signal.
 
 Passing values to our buffered observer is handled internally and happens everytime a setter for a `value` is called. So in fact mostly we will be having fun with `value` and `producer` fields.

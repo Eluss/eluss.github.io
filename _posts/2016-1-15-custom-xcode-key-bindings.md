@@ -6,7 +6,8 @@ When I started writing Swift code, I found out that my beloved IDE(AppCode) for 
 
 After coming back to XCode I found out that I was really used to keybindings that AppCode provided. Some of them were also available in XCode (Moving lines up/down) and it was just a matter of changing the keys binded to a shortcut, but some of them were missing. Where was my line duplication? Where was my lines juming? Luckily for me, I could add those by myself.
 
-####Adding custom keybindings
+Adding custom keybindings
+---
 Thre is an easy way of adding your custom key bindings to your XCode. In order to do this, you have to follow this steps:
 
 1. Go to `/Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Resources`

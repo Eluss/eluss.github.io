@@ -4,7 +4,8 @@ title: EventKit - Gaining access to calendar events
 ---
 If you want to gain access to your calendar events it's time to use EventKit. EventKit allows you to do multiple operations with calendar events and reminders. In this post I will cover gaining access to existing events in your calendar.
 
-####Getting access to events in your calendar
+Getting access to events in your calendar
+---
 In order to get desired access you need to follow a few basic steps.
 
 1. Your app needs to gain access to calendar. This code will show the alert to a user when app is opened for the 	first time. You can always change it in app's settings later on.
