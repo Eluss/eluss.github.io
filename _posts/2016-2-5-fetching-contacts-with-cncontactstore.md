@@ -9,13 +9,11 @@ Today I will show you how to create a simple UITextField that will be responsibl
 ###Setting up 
 Let me introduce you our textfield! 
 
-![Empty TextField](/images/CNContactStorePost/empty_textfield.png)
-
 Our text field will be unique this time. It will not behave the way it usually does. After tapping it we don't want to see a keyboard, we want to see contacts! In order to achieve this, first we have to implement specific delegate method from our textfield. Inside it, we will open our contact list and tell our textfield not to display a keyboard.
 
 <script src="https://gist.github.com/Eluss/10f6d7eecd8400bcf691.js"></script>
 
-![Contact list](/images/CNContactStorePost/selecting_contact.png)
+
 
 Now it's time to present contacts, after creating our `CNContactPickerViewController`, we will assign a delegate for it (we will implement it's method later to catch a contact) and tell it to display contact's phone numbers only.
 
@@ -27,6 +25,6 @@ After we choose a phone number from a contact list, we want to receive it in our
 
 Selected phone number will now appear in our text field ;)
 
-![Filled TextField](/images/CNContactStorePost/filled_textfield.png)
+
 
 This article is cross-posted with my [my company blog](http://blog.brightinventions.pl/)
