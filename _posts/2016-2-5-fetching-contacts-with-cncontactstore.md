@@ -2,7 +2,7 @@
 layout: post
 title: Fetching contacts with CNContactStore
 ---
-
+ 
 Since iOS 9.0 we have a new nice method of fetching and saving contacts - CNContactStore!
 Today I will show you how to create a simple UITextField that will be responsible for fetching a contact for you!
 
