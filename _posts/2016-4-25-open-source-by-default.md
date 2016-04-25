@@ -4,7 +4,7 @@ title: Open source by default
 ---
 
 Using open source code in projects is a common thing. I do it. Most of us do.
-But what is "open source" by default? Well, I've heard about this at MCE Conf 2016 from Ash Furrow. He told about the idea to make software open by default and close it only if needed. There are many reasons to close it of cource, but sometimes we do it unnecessarily.
+But what is "open source" by default? Well, I've heard about this at MCE Conf 2016 at "Open by default" panel. It's an idea to make software open by default and close it only if needed. There are many reasons to close it of cource, but sometimes we do it unnecessarily.
 
 
 Bad Habits
