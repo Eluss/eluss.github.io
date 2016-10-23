@@ -22,20 +22,20 @@ var producer: SignalProducer<String, NoError>
 
 init() {  
   producer = SignalProducer {[weak self] observer, compositeDisposable in
-      guard let weakSelf = self else { return }
+      guard let strongSelf = self else { return }
       compositeDisposable.add {
           print("I've been disposed! I can clean my resources ;)")
       }
 
       DispatchQueue.main.asyncAfter(deadline: .now() + 1, execute: {
           if !compositeDisposable.isDisposed {
-              weakSelf.performHeavyCalculation()
+              strongSelf.performHeavyCalculation()
               observer.send(value: "1")
           }
       })
       DispatchQueue.main.asyncAfter(deadline: .now() + 3, execute: {
           if !compositeDisposable.isDisposed {
-              weakSelf.performHeavyCalculation()
+              strongSelf.performHeavyCalculation()
               observer.send(value: "2")
           }
       })
@@ -91,8 +91,8 @@ disposables += signal.observe {[unowned self] values in
 
 // weak reference, but self becomes optional
 disposables += signal.observe {[weak self] values in
-  guard let weakSelf = self else { return }
-  weakSelf.workWithMeAllTheTime()
+  guard let strongSelf = self else { return }
+  strongSelf.workWithMeAllTheTime()
 }
 
 ...
