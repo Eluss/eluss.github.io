@@ -114,3 +114,5 @@ Let's get back to the code from first example. You can see, that I used a `[weak
 When I start observing for values from producer in `startWithValues` closure, I'm pretty sure that I'll call `dispose` when my controller deinits, so I know that `self` will be there if I need it. With given `SignalProducer` that's a bit different. It is accessible from outside. Let's imagine, that I've saved this producer at the time that this class was alive, and started it's work after it was deinitialized. If I had `[unowned self]` there, then it would cause a crash. As long as I have `[weak self]`, at the beginning of my producer's work I can check if `self` exists and If it doesn't I can discontinue with any other work. If it does, I'll create a reference to `self` and proceed with my work.
 
 There are always edge cases, that may cause a headache when choosing between `unowned` and `weak`, but as the time goes, you'll find it easier and easier to work with them! See you next time!
+
+This article is cross-posted with my [my company blog](http://blog.brightinventions.pl/)
