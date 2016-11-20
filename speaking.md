@@ -22,7 +22,7 @@ Talks:
 
 - 22.10.2016 - Introduction to Functional Reactive Programming - [Kariera IT Wroclaw](http://careercon.pl/), [Slides](http://www.slideshare.net/EliaszSawicki/introduction-to-functional-reactive-programming-67525036)
 
-- 17.10.2016 - Time traveling with ReSwift - [MobileWarsaw](http://mobile-warsaw.pl/meetup_42.html), [Slides](http://www.slideshare.net/EliaszSawicki/time-traveling-with-reswift)
+- 17.10.2016 - Time traveling with ReSwift - [Mobile Warsaw](http://mobile-warsaw.pl/meetup_42.html), [Slides](http://www.slideshare.net/EliaszSawicki/time-traveling-with-reswift)
 
 - 24.09.2016 - Introduction to Functional Reactive Programming - [Kariera IT Sopot](http://careercon.pl/), [Slides](http://www.slideshare.net/EliaszSawicki/introduction-to-functional-reactive-programming-67525036)
 
