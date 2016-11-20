@@ -4,7 +4,7 @@ title: Speaking
 permalink: /speaking/
 ---
 
-I really enjoy sharing my knowledge in various ways, that's why besides running my blog I'm always eager to attend meetups and meet other passionate people.
+I really enjoy learning new things and sharing my knowledge in various ways, that's why besides running my blog I'm always eager to attend meetups and meet other passionate people.
 
 Upcoming talks:
 ---
