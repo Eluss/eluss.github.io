@@ -9,9 +9,9 @@ I really enjoy sharing my knowledge in various ways, that's why besides running 
 Upcoming talks:
 ---
 
-- 07.12.2016 - Introduction to Functional Reactive Programming - [CodeEurope Warsaw](https://www.codeeurope.pl/pl)
+- 07.12.2016 - Introduction to Functional Reactive Programming - [Code Europe Warsaw](https://www.codeeurope.pl/pl)
 
-- 05.12.2016 - Introduction to Functional Reactive Programming - [CodeEurope Krakow](https://www.codeeurope.pl/pl)
+- 05.12.2016 - Introduction to Functional Reactive Programming - [Code Europe Krakow](https://www.codeeurope.pl/pl)
 
 Talks:
 ---
