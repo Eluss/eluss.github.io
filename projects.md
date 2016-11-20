@@ -14,4 +14,4 @@ Gdansk Numerek - [iOS](https://itunes.apple.com/us/app/id1092983370), [Android](
 ---
 <i>Release date: March 2016 (iOS),  April 2016 (Android)</i>
 
-Application lets you track tickets in Gdansk's city halls. Thanks to the app, you'll know the number of people in queues, number of active service points and average time of handling ticket. Application is based on data available within "Otwarty-Gdansk" project. Konrad Rogoziński was responsible for application design.
+Application lets you track tickets in Gdansk's city halls. Thanks to the app, you'll know the number of people in queues, number of active service points and average time of handling ticket. Application is based on data available within "Otwarty-Gdansk" project. Konrad Rogoziński was responsible for UI design.
