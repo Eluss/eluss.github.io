@@ -24,6 +24,8 @@ Talks:
 
 - 17.10.2016 - Time traveling with ReSwift - [Mobile Warsaw](http://mobile-warsaw.pl/meetup_42.html), [Slides](http://www.slideshare.net/EliaszSawicki/time-traveling-with-reswift)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ODO9a-JLMM0" frameborder="0" allowfullscreen></iframe>
+
 - 24.09.2016 - Introduction to Functional Reactive Programming - [Kariera IT Sopot](http://careercon.pl/), [Slides](http://www.slideshare.net/EliaszSawicki/introduction-to-functional-reactive-programming-67525036)
 
 
