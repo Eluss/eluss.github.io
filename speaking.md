@@ -6,15 +6,12 @@ permalink: /speaking/
 
 I really enjoy learning new things and sharing my knowledge in various ways, that's why besides running my blog I'm always eager to attend meetups and meet other passionate people.
 
-Upcoming talks:
----
-
-- 07.12.2016 - Introduction to Functional Reactive Programming - [Code Europe Warsaw](https://www.codeeurope.pl/pl)
-
-- 05.12.2016 - Introduction to Functional Reactive Programming - [Code Europe Krakow](https://www.codeeurope.pl/pl)
-
 Talks:
 ---
+
+- 07.12.2016 - Introduction to Functional Reactive Programming - [Code Europe Warsaw](https://www.codeeurope.pl/pl), [Slides](http://www.slideshare.net/EliaszSawicki/code-europe)
+
+- 05.12.2016 - Introduction to Functional Reactive Programming - [Code Europe Krakow](https://www.codeeurope.pl/pl), [Slides](http://www.slideshare.net/EliaszSawicki/code-europe)
 
 - 19.11.2016 - Introduction to Functional Reactive Programming - [Kariera IT Poznan](http://careercon.pl/), [Slides](http://www.slideshare.net/EliaszSawicki/introduction-to-functional-reactive-programming-poznan)
 
