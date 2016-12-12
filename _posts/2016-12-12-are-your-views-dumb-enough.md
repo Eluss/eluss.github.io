@@ -79,6 +79,7 @@ Conclusion
 ---
 
 I believe that this way of structuring your code can benefit you a lot and will result in much cleaner code and tests that will not require that much time to run. The approach to running tests without simulator is a kind of “proof of concept” for me that I wanted to share with you. I’m willing to try it out more on the battlefield and see how it holds. 
-If you had experience with this way of running test, I’d be glad if you could share it in comments section below!
+
+How do you solve these issues? Do you have experience in running test this way? I’d be glad if you share it in comments section below ;)
 
 This article is cross-posted with my [my company blog](http://blog.brightinventions.pl/)
