@@ -10,7 +10,7 @@ BestLover - [iOS](https://itunes.apple.com/pl/app/bestlover/id1080730925?mt=8)
 
 By sending love messages everyday, your love will grow! Sending love messages was never easier than now! Show your love that you care! Schedule everyday reminders and send generated love messages to your second half! This application will let you choose from different message templates and then send it to selected recipient.
 
-Gdansk Numerek - [iOS](https://itunes.apple.com/us/app/id1092983370), [Android](https://play.google.com/store/apps/details?id=com.eluss.gdansknumerek)
+Gdansk Numerek - [iOS](https://github.com/Eluss/GdanskNumerek-iOS), [Android](https://github.com/Eluss/GdanskNumerek-Android)
 ---
 <i>Release date: March 2016 (iOS),  April 2016 (Android)</i>
 
