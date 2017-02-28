@@ -7,6 +7,7 @@ permalink: /speaking/
 I really enjoy learning new things and sharing my knowledge in various ways, that's why besides running my blog I'm always eager to attend meetups and meet other passionate people.
 
 Upcoming Talks:
+---
 
 - 04.03.2017 - Podróż w czasie z architekturą Redux - [Kariera IT Gdansk](http://careercon.pl/konferencja/kariera-it-gdansk-4-03-2017/)
 - 11.03.2017 - Podróż w czasie z architekturą Redux - [Kariera IT Warsaw](http://careercon.pl/konferencja/kariera-it-warszawa-11-03-2017/)
