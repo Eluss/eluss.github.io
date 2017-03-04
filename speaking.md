@@ -9,7 +9,6 @@ I really enjoy learning new things and sharing my knowledge in various ways, tha
 Upcoming Talks:
 ---
 
-- 04.03.2017 - Podróż w czasie z architekturą Redux - [Kariera IT Gdansk](http://careercon.pl/konferencja/kariera-it-gdansk-4-03-2017/)
 - 11.03.2017 - Podróż w czasie z architekturą Redux - [Kariera IT Warsaw](http://careercon.pl/konferencja/kariera-it-warszawa-11-03-2017/)
 - 18.03.2017 - Podróż w czasie z architekturą Redux - [Kariera IT Poznan](http://careercon.pl/konferencja/kariera-it-poznan-18-03-2017/)
 - 25.03.2017 - Wprowadzenie do Functional Reactive Programming - [InfoMEET Gdansk](http://novial.pl/infomeet/p/62/infomeet-gdansk)
@@ -17,6 +16,8 @@ Upcoming Talks:
 
 Talks:
 ---
+
+- 04.03.2017 - Podróż w czasie z architekturą Redux - [Kariera IT Gdansk](http://careercon.pl/konferencja/kariera-it-gdansk-4-03-2017/)
 
 - 07.12.2016 - Introduction to Functional Reactive Programming - [Code Europe Warsaw](https://www.codeeurope.pl/pl), [Slides](http://www.slideshare.net/EliaszSawicki/code-europe)
 
