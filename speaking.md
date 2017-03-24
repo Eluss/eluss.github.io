@@ -8,7 +8,7 @@ I really enjoy learning new things and sharing my knowledge in various ways, tha
 
 Upcoming Talks:
 ---
-https://www.youtube.com/watch?v=nF4YTkNdZvI
+
 - 30.03.2017 - Introduction to Functional Reactive Programming - [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers)
 
 Talks:
@@ -23,6 +23,8 @@ Talks:
 - 04.03.2017 - Podróż w czasie z architekturą Redux - [Kariera IT Gdansk](http://careercon.pl/konferencja/kariera-it-gdansk-4-03-2017/)
 
 - 07.12.2016 - Introduction to Functional Reactive Programming - [Code Europe Warsaw](https://www.codeeurope.pl/pl), [Slides](http://www.slideshare.net/EliaszSawicki/code-europe)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PWVfK_4EWFk" frameborder="0" allowfullscreen></iframe>
 
 - 05.12.2016 - Introduction to Functional Reactive Programming - [Code Europe Krakow](https://www.codeeurope.pl/pl), [Slides](http://www.slideshare.net/EliaszSawicki/code-europe)
 
