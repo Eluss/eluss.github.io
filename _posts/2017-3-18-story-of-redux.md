@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A story of Redux
+title: Redux - How do I undrstand it?
 ---
 
 ![Header](/images/redux/header.jpg){: .center-image}
