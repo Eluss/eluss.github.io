@@ -6,13 +6,12 @@ permalink: /speaking/
 
 I really enjoy learning new things and sharing my knowledge in various ways, that's why besides running my blog I'm always eager to attend meetups and meet other passionate people.
 
-Upcoming Talks:
----
-
-- 30.03.2017 - Introduction to Functional Reactive Programming - [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers)
-
 Talks:
 ---
+
+- 12.04.2017 - Flying away from the nest (Bye bye UIKit) - [CocoaHeads Tricity](https://www.facebook.com/CocoaHeadsTricity/), [Slides](https://speakerdeck.com/eluss/flying-away-from-the-nest-bye-bye-uikit)
+
+- 30.03.2017 - Introduction to Functional Reactive Programming - [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers), [Video](https://skillsmatter.com/skillscasts/9545-introduction-to-functional-reactive-programming), [Slides](https://www.slideshare.net/EliaszSawicki/ioscon)
 
 - 18.03.2017 - Podróż w czasie z architekturą Redux - [Kariera IT Poznan](http://careercon.pl/konferencja/kariera-it-poznan-18-03-2017/)
 
