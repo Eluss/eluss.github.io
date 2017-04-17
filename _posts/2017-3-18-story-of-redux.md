@@ -33,8 +33,10 @@ Letters (Actions)
 
 So... now we have a neatly structured state in our archives, everything is clean, and easy to reason about. But as you might expect, there is a high possibility that our users would like to change this state in some way (I guess that's not anything new). How do we handle that? Well, we can't directly access our app's state and change what we want. That's not how you work with clean archives...  Let's imagine, that I'd like to change my address. I can't just walk into a city hall and play with their archives. I need to write an official `letter`. 
 
-^ Title: John Doe - Address Change
-^ Hello, I've just moved to another house. My current address is Art Street 10.
+```
+Title: John Doe - Address Change 
+Hello, I've just moved to another house. My current address is Art Street 10.
+```
 
 Don't worry, when we change state in our application, we only need crucial information. So it might look like this:
 
