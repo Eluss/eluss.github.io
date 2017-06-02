@@ -241,6 +241,13 @@ nav {
 // .main
 //
 
+.entry {
+  // font-family: $helveticaNeue;
+  // font-size: 20;
+  line-height: 1.5;
+  font-weight: 300;
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
