@@ -1,17 +1,19 @@
 ---
 layout: post
 title: PureLayout vs SnapKit - Great confrontation
-
+category: blog
+header: /assets/images/purelayout-snapkit-header.jpg
+excerpt: At first, let me clear something out. I'm heavy PureLayout user. I've been creating my UIs in code for some time now and it's not looking like I'm going back to...
 ---
 
-![PureLayout SnapKit Header](/images/purelayout-snapkit-header.jpg){: .center-image}
+![PureLayout SnapKit Header](/assets/images/purelayout-snapkit-header.jpg){: .center-image}
 
 At first, let me clear something out. I'm heavy PureLayout user. I've been creating my UIs in code for some time now and it's not looking like I'm going back to Interface Builder any time soon. I'm not saying IB is bad, but it's just not the way that I do things. I started working with PureLayout back in Objective-C days and I kept on using it in Swift as well. However, recently I've been interested in a framework called SnapKit, that offers a nice "swifty" way of building views in your application. This post is my way of getting into SnapKit. Below, you can find some UI examples, that I've written using both PureLayout and SnapKit.
 
 Simple positioning
 ---
 
-![Simple positioning](/images/simple-positioning.png){: .center-image}
+![Simple positioning](/assets/images/simple-positioning.png){: .center-image}
 
 {% highlight swift%}
 
@@ -55,7 +57,7 @@ func snapKit() {
 Inside UIScrollView
 ---
 
-![ScrollView positioning](/images/Scroll.gif){: .center-image}
+![ScrollView positioning](/assets/images/Scroll.gif){: .center-image}
 
 {% highlight swift %}
 
@@ -108,7 +110,7 @@ func snapKit() {
 UIScrollView with a surprise
 ---
 
-![ScrollView positioning](/images/ScrollViewSurprise.gif){: .center-image}
+![ScrollView positioning](/assets/images/ScrollViewSurprise.gif){: .center-image}
 
 {% highlight swift %}
 
@@ -162,7 +164,7 @@ func snapKit() {
 Updating constraint's constant
 ---
 
-![ScrollView positioning](/images/move.gif){: .center-image}
+![ScrollView positioning](/assets/images/move.gif){: .center-image}
 
 {% highlight swift%}
 

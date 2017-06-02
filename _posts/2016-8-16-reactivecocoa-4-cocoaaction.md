@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ReactiveCocoa 4 - CocoaActions
+category: blog
 ---
 
 `CocoaAction` is a wrapper around `Action` type that is available in ReactiveCocoa. ([Here ](http://eluss.github.io/reactivecocoa-4-action/) you can read more about `Action`). We use `CocoaAction` to bind our `Actions` to GUI controls. Let's see a quick example of how it works.

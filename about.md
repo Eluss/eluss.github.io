@@ -1,21 +1,19 @@
 ---
-layout: page
 title: About
-permalink: /about/
+layout: page
 ---
-Hi, I'm Eliasz Sawicki - iOS developer from Gdansk.
+![Profile Image]({{ site.url }}/{{ site.picture }})
 
-I love creating things which make people's lives easier and writing best quality iOS apps is one of those things.
+<p>
+Hi, my name is Eliasz Sawicki
+<br>
+I’m developer at Bright Inventions, focused on providing great mobile experience. I’m constantly looking for new ways to improve my solutions which is also main topic of my blog. When my Mac is sleeping, I’m probably playing guitar or reading books.
+<br>
+Currently I work at Bright Inventions, check out our <a href="http://brightinventions.pl/blog/">Blog</a>
 
-I am passionate about personal development and I'm constantly looking for methods to improve my productivity.
+<h2>Projects</h2>
 
-I believe that we can achieve more than we can think of.
-
-Currently I work at Bright Inventions, check out our [blog](http://blog.brightinventions.pl/)!
-
-
-### Contact
-
-Feel free to contact me!
-
-[eliasz.sawicki@gmail.com](mailto:eliasz.sawicki@gmail.com)
+<ul>	
+	<li><a href="https://github.com/Eluss/GdanskNumerek-iOS">Gdansk Numerek - iOS</a></li>
+	<li><a href="https://github.com/Eluss/GdanskNumerek-Android">Gdansk Numerek - Android</a></li>
+</ul>

@@ -1,10 +1,12 @@
 ---
 layout: post
 title: PureLayout vs NSLayoutAnchor - Great confrontation
-
+category: blog
+header: /assets/images/purelayout-vs-anchor-header.jpeg
+excerpt: Last week I've made basic comparison between two libraries that will help you layout your interfaces - PureLayout and SnapKit...
 ---
 
-![PureLayout SnapKit Header](/images/purelayout-vs-anchor-header.jpeg){: .center-image}
+![PureLayout SnapKit Header](/assets/images/purelayout-vs-anchor-header.jpeg){: .center-image}
 
 Last week I've made basic comparison between two libraries that will help you layout your interfaces - PureLayout and SnapKit. You can find this comparison [here](https://eliaszsawicki.com/purelayout-vs-snapkit/). Today I'd lake to take the same examples and see how they work with `NSLayoutAnchor`. `NSLayoutAnchor` is available to us since iOS 9 and provides us with a new way of creating your constraints. If you do not like creating `NSLayoutConstraints` using it's initializers or visual format, and do not want any external dependencies for your layout, then `NSLayoutAnchor` is for you!
 
@@ -17,7 +19,7 @@ Note before we start:
 Simple positioning
 ---
 
-![Simple positioning](/images/simple-positioning.png){: .center-image}
+![Simple positioning](/assets/images/simple-positioning.png){: .center-image}
 
 {% highlight swift%}
 
@@ -62,7 +64,7 @@ func anchorLayout() {
 Inside UIScrollView
 ---
 
-![ScrollView positioning](/images/Scroll.gif){: .center-image}
+![ScrollView positioning](/assets/images/Scroll.gif){: .center-image}
 
 {% highlight swift %}
 
@@ -118,7 +120,7 @@ func anchorLayout() {
 UIScrollView with a surprise
 ---
 
-![ScrollView positioning](/images/ScrollViewSurprise.gif){: .center-image}
+![ScrollView positioning](/assets/images/ScrollViewSurprise.gif){: .center-image}
 
 {% highlight swift %}
 
@@ -175,7 +177,7 @@ func anchorLayout() {
 Updating constraint's constant
 ---
 
-![ScrollView positioning](/images/move.gif){: .center-image}
+![ScrollView positioning](/assets/images/move.gif){: .center-image}
 
 {% highlight swift%}
 

@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Are your views dumb enough? — A way to run your tests without simulator
+category: blog
+header: /assets/images/are-views-dumb-enough/turbo.jpeg
+excerpt: Hi! As you can see, the title of this post consists of two parts. “Are your views dumb enough” refers to managing code between your classes in project...
 ---
 
-![Header](/images/are-views-dumb-enough/turbo.jpeg){: .center-image}
+![Header](/assets/images/are-views-dumb-enough/turbo.jpeg){: .center-image}
 
 Hi! As you can see, the title of this post consists of two parts. “Are your views dumb enough” refers to managing code between your classes in project, which is really interesting topic, but there is also a second part — “A way to run your tests without simulator”. Managing your code is pretty straight forward topic and you probably know what to expect from this part, but how do I want to run my tests without simulator? Isn’t a simulator something we really need to test an application? Turns out it is not!
 
@@ -26,7 +29,9 @@ Problems begin…
 ---
 But wait! Suddenly something bad happened! Someone decided, that we would should reuse the layout we prepared, fill it with data from the same model, but displayed just a bit different. Well… It’s pretty hard to do it here, as we already decided how to present our title and what is the format for a birthday date. The logic behind our button is also here…
 
-![Knew too much](/images/are-views-dumb-enough/knew-too-much.jpg){: .center-image}
+<p style="text-align:center"> 
+<img src="/assets/images/are-views-dumb-enough/knew-too-much.jpg"/>
+</p>
 
 The problem here is that our view has too much knowledge about what is happening! How can we change it? Let’s take a look at MVVM pattern that will allow us to move this knowledge to another place.
 [You can find more about architecture patterns here](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.fbormp201)
@@ -39,7 +44,9 @@ Ok, much better now. We now have protocol that defines abilities of our PersonVi
 
 Ok, we now see two different implementations of PersonViewModel protocol. Now we can reuse the same view with different logic behind it.
 
-![Separate](/images/are-views-dumb-enough/yoda-separate.jpeg){: .center-image}
+<p style="text-align:center"> 
+<img src="/assets/images/are-views-dumb-enough/yoda-separate.jpeg"/>
+</p>
 
 Making your views dumb is a great way to achieve cleaner code that is much easier to test. Now we can easily test our ViewModels to see if they work as intended. This is all possible thanks to separation of our business logic from layout!
 
@@ -54,7 +61,7 @@ Does that mean that we should be able to test our application logic without the 
 The answer is YES!
 ---
 
-![Separate](/images/are-views-dumb-enough/running-tests.jpg){: .center-image}
+![Separate](/assets/images/are-views-dumb-enough/running-tests.jpg){: .center-image}
 
 Recently I started thinking about separating a big project intro many smaller frameworks. If my logic is not tightly coupled, then this should not be a big problem, and if you have this kind of separation then there is a high chance that your code is written well. What if my little frameworks do not have dependency on UIKit? I can easily reuse them on different platforms like iOS, MacOS etc. This is also an approach that you can use to test these frameworks. 
 If framework can be used on MacOS, then you are also able to test them there! That means you do not need simulator anymore!
@@ -63,7 +70,7 @@ How do we prepare framework that will target iOS and MacOS? Below you’ll find 
 
 After creating a framework with your logic, here is what is left to do:
 
-![Separate](/images/are-views-dumb-enough/test-target.png){: .center-image}
+![Separate](/assets/images/are-views-dumb-enough/test-target.png){: .center-image}
 
 1. Create a target for OSX Unit Testing Bundle
 2. As target to be tested select framework that has MacOS as destination

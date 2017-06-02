@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ReactiveCocoa 4 - SignalProducer
+category: blog
 ---
 
 Today we will take a look at SignalProducer class which is provided with ReactiveCocoa 4.

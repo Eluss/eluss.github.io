@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Git Daily Update
+category: blog
 ---
 
 Recently I've started playing with "git log" command in order to simplify my daily update routine. After some time I found a command that fills my needs.
+
+
 <script src="https://gist.github.com/Eluss/cf2c2fc3e0fe4e274996.js"></script>
 The command basicly prints commits that user "Eliasz Sawicki" has done within last day.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Swift files generator
+category: blog
 ---
 
 For some time, I have been creating iOS apps without using storyboards at all. Because of this fact ,creating screens in the application is connected to some repetitive steps. You create a ViewController, then a View which will be presented in the controller. You want a PageViewController? Create one, set up ViewControllers that will be presented inside it. After some time, you can recognise a pattern and prepare a bunch of code snippets that will do the job for you. Or... You can prepare a code generator, that will generate all the files for you. This will allow you to skip the part of creating files and filling them with code templates. In this blog post, I will tell you about creating my first code generator.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ReactiveCocoa 4 - Events
+category: blog
 ---
 
 Understanding signal events in ReactiveCocoa is a must. We can't effectively use signals and signal producers if we don't know what will happen after certain event is received. We distinguish two kinds of events that you can send through signals - terminating and non-terminating. There are three kinds of terminating events: `Failed`, `Interrupted`, `Completed`, and one non-terminating - `Next`.

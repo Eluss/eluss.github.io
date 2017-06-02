@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Queueing audio files with AVQueuePlayer
+category: blog
 ---
 
 Today's short post will cover queueing audio files using Swift. In order to do this we will be using AVQueuePlayer.

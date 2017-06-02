@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ReactiveCocoa 4 - MutableProperty
+category: blog
 ---
 
 MutableProperty which comes with ReactiveCocoa allows us to track variable's changes. Let's take a quick look on how it actually works.

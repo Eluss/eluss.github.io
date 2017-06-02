@@ -1,11 +1,14 @@
 ---
 layout: post
 title: Data transfer between Apple Watch and iPhone
+category: blog
 ---
 
 Today's post will cover basic data transfer between your iPhone app and Apple Watch app.
 Let's assume that you have already created an Apple Watch extension in your project and you want to transfer some data to your watch.
 As an example, we will be sending `Event` object to our watch, so let's have a look at `Event` class!
+
+
 <script src="https://gist.github.com/Eluss/386d83ccffa658a63054.js"></script>
 
 The most important thing here is to implement `NSCoding` protocol. We will need it, because we won't be able to send pure `Event` object to our watch app, however we can easily send `NSData`. Another important thing is to make our class visible to both iPhone and Apple Watch, so remember about linking this class to both targets.

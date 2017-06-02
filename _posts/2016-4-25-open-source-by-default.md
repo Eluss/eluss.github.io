@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Open source by default
+category: blog
 ---
 
 Using open source code in projects is a common thing. I do it. Most of us do.

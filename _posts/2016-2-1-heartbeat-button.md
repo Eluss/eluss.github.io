@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Heartbeat button
+category: blog
 ---
 
 Hi! Today I will show you how to create a simple heart button that will simulate a heartbeat upon each tap. You can find an example project on my [Github](https://github.com/Eluss/HeartbeatDemo.git).
@@ -18,10 +19,10 @@ Let's take a look at our `performHeartBeat:` method. In order to perform our hea
 
 Here is how our button should look before tapping:
 
-![Inactive button](/images/heartbeat-inactive.png)
+![Inactive button](/assets/images/heartbeat-inactive.png)
 
 After multiple taps:
 
-![Active button](/images/heartbeat-active.png)
+![Active button](/assets/images/heartbeat-active.png)
 
 This article is cross-posted with my [my company blog](http://blog.brightinventions.pl/)

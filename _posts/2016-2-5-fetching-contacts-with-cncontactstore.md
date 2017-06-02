@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fetching contacts with CNContactStore
+category: blog
 ---
  
 Since iOS 9.0 we have a new nice method of fetching and saving contacts - CNContactStore!
@@ -10,7 +11,7 @@ Setting up
 ---
 Let me introduce you our textfield! 
 
-![Empty TextField](/images/CNContactStorePost/empty_textfield.png)
+![Empty TextField](/assets/images/CNContactStorePost/empty_textfield.png)
 
 Our text field will be unique this time. It will not behave the way it usually does. After tapping it we don't want to see a keyboard, we want to see contacts! In order to achieve this, first we have to implement specific delegate method from our textfield. Inside it, we will open our contact list and tell our textfield not to display a keyboard.
 
@@ -22,7 +23,7 @@ Now it's time to present contacts, after creating our `CNContactPickerViewContro
 
 <script src="https://gist.github.com/Eluss/6c7289307fc8e31f8bb2.js"></script>
 
-![Contact list](/images/CNContactStorePost/selecting_contact.png)
+![Contact list](/assets/images/CNContactStorePost/selecting_contact.png)
 
 Get a phone number
 ---
@@ -32,6 +33,6 @@ After we choose a phone number from a contact list, we want to receive it in our
 
 Selected phone number will now appear in our text field ;)
 
-![Filled TextField](/images/CNContactStorePost/filled_textfield.png)
+![Filled TextField](/assets/images/CNContactStorePost/filled_textfield.png)
 
 This article is cross-posted with my [my company blog](http://blog.brightinventions.pl/)

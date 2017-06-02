@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ReactiveCocoa 4 - Signal
+category: blog
 ---
 
 Today, let's take a look at basic aspect of ReactiveCocoa - Signal.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ReactiveCocoa 4 - Action
+category: blog
 ---
 
 Today I'll tell you about an `Action` type that is available in ReactiveCocoa 4.

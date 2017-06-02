@@ -4,6 +4,9 @@ title: Speaking
 permalink: /speaking/
 ---
 
+Speaking
+===
+
 I really enjoy learning new things and sharing my knowledge in various ways, that's why besides running my blog I'm always eager to attend meetups and meet other passionate people.
 
 Talks:
