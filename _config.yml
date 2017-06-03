@@ -108,4 +108,4 @@ gems:
   - jemoji
 
 jekyll-mentions:
-    base_url: ""
+    base_url: "https://www.eliaszsawicki.com"
