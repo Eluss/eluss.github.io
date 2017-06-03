@@ -6,11 +6,17 @@
         <h3 class="title">{{ post.title }}</h3>
     </a>
     <div class="post-description-block">
+        {% if post.header %}
         <div class="thumbnail">
             <img src="{{post.header}}" class="post-thumb-image" />
         </div>
         <p class="post-description">
             {{post.excerpt}}
         </p>
+        {% endif %} {% unless post.header %}
+        <p class="post-only-description">
+            {{post.excerpt}}
+        </p>
+        {% endunless %}
     </div>
 </div>
