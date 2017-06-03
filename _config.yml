@@ -16,8 +16,8 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: http://eluss.github.io/
-# enforce_ssl: www.eliaszsawicki.com
+url: https://www.eliaszsawicki.com
+enforce_ssl: www.eliaszsawicki.com
 # baseurl: ""
 # your url: http://USERNAME.github.io
 
