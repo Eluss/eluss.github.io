@@ -41,4 +41,4 @@ I really like the way that React/React-Native fit my work style. These are great
 It’s not about leaving everything behind for React-Native. Learning any new framework or language will help you understand what you like and allow you to get in touch with patterns used on various platforms. Maybe it will inspire you to find new ways of improving your workflow in other projects.
 
 
-Do not get to0 attached to your beloved language or framework and try something else from time to time — it will surely benefit you as a developer.
+Do not get to attached to your beloved language or framework and try something else from time to time — it will surely benefit you as a developer.
