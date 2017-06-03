@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image]({{ site.baseurl }}/{{ site.picture }})
 
 <p>
 Hi, my name is Eliasz Sawicki
