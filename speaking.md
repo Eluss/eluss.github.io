@@ -9,6 +9,15 @@ Speaking
 
 I really enjoy learning new things and sharing my knowledge in various ways, that's why besides running my blog I'm always eager to attend meetups and meet other passionate people.
 
+Upcoming talks:
+
+- 06.10.2017 - The art of developing more in less time - how to not get caught by long build times? - [Mobiconf](https://2017.mobiconf.org/)  
+
+- 21.10.2017 - Introduction to React Native - [Mobilization](http://2017.mobilization.pl/)  
+
+- 01.11.2017 - Functional Reactive Programming with ReactiveCocoa - [Cluj TechFest](http://cluj.techfest.ro/)  
+
+
 Talks:
 ---
 
