@@ -12,8 +12,6 @@ I really enjoy learning new things and sharing my knowledge in various ways, tha
 Upcoming talks:
 ---
 
-- 06.10.2017 - The art of developing more in less time - how to not get caught by long build times? - [Mobiconf](https://2017.mobiconf.org/)  
-
 - 21.10.2017 - Introduction to React Native - [Mobilization](http://2017.mobilization.pl/)  
 
 - 01.11.2017 - Functional Reactive Programming with ReactiveCocoa - [Cluj TechFest](http://cluj.techfest.ro/)  
@@ -21,6 +19,8 @@ Upcoming talks:
 
 Talks:
 ---
+
+- 06.10.2017 - The art of developing more in less time - how to not get caught by long build times? - [Mobiconf](https://2017.mobiconf.org/), [Slides](https://www.slideshare.net/secret/4i16nX6azn5RG3)
 
 - 12.04.2017 - Flying away from the nest (Bye bye UIKit) - [CocoaHeads Tricity](https://www.facebook.com/CocoaHeadsTricity/), [Slides](https://speakerdeck.com/eluss/flying-away-from-the-nest-bye-bye-uikit)
 
