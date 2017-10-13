@@ -72,6 +72,6 @@ Setting up a React Native project can be a daunting thing... It would be really 
 
 # Summary
 These points should not discourage you from entering the world of React Native. They should make you aware of some problems, so that you can better prepare for them. So far I've had a great experience with it and I'm really looking forward to seeing how this technology evolves in the future.  
-Well... you should surely avoid RN if you don't want to experience the feeling of longing after coming back to native development. When you caome back, there will be many things that you won't feel comfortable with after trying RN ;)
+Well... you should surely avoid RN if you don't want to experience the feeling of longing after coming back to native development. When you come back, there will be many things that you won't feel comfortable with after trying RN ;)
 
 This article is cross-posted with my [my company blog](http://blog.brightinventions.pl/)
