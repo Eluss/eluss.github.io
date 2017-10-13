@@ -1,6 +1,6 @@
 ---
 layout: post
-title: React Native - The things that you shoud be aware of before coming onboard
+title: React Native - The things that you should be aware of before coming onboard
 category: blog
 header: /assets/images/react-native-the-things-that-you-shoud-be-aware-of-before-coming-onboard/header.jpeg
 excerpt: React Native is a neat piece of technology that I get along pretty well with. Creating multiplatform apps using shared codebase and having a great feedback loop...
