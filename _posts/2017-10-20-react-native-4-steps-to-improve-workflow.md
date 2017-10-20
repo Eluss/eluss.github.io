@@ -6,7 +6,7 @@ header: /assets//images/react-native-a-better-workflow/happy.jpeg
 excerpt: A developer needs tools that support her/his workflow to be fully productive. Well, I guess that this statement fits to any profession that you can think of. It is really important for me to feel that the environment...
 ---
 
-![Header](/assets/images/react-native-a-better-workflow/happy.jpeg){: .center-image}
+![Header](/assets/images/react-native-a-better-workflow/happy.jpeg){: .center-image}  
 
 "A developer needs tools that support her/his workflow to be fully productive". Well, I guess that this statement fits to any profession that you can think of. It is really important for me to feel that the environment that I'm working in really supports my flow and works well with my approach to software development. That's why today I'd like to share a number of things that boost my productivity while creating mobile app in React Native.
 
