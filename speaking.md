@@ -12,11 +12,14 @@ I really enjoy learning new things and sharing my knowledge in various ways, tha
 Upcoming talks:
 ---
 
-- 01.11.2017 - Functional Reactive Programming with ReactiveCocoa - [Cluj TechFest](http://cluj.techfest.ro/)
+- 27.11.2017 - The art of developing more in less time - how to not get caught by long build times? - Axel Springer Mobile Developers Day
 
+- 18.11.2017 - Introduction to React Native - [Kariera IT Gdansk](http://careercon.pl/konferencja/kariera-it-gdansk-18-11-2017/)
 
 Talks:
 ---
+
+- 01.11.2017 - Functional Reactive Programming with ReactiveCocoa - [Cluj TechFest](http://cluj.techfest.ro/), [Slides](https://www.slideshare.net/EliaszSawicki/tech-fest-81393430)
 
 - 21.10.2017 - Introduction to React Native - [Mobilization](http://2017.mobilization.pl/), [Slides](https://www.slideshare.net/secret/2FAXVS44FKK83L)  
 
