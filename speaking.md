@@ -16,11 +16,10 @@ Upcoming talks:
 
 - 18.11.2017 - Introduction to React Native - [Kariera IT Gdansk](http://careercon.pl/konferencja/kariera-it-gdansk-18-11-2017/)
 
-- 01.11.2017 - Functional Reactive Programming with ReactiveCocoa - [Cluj TechFest](http://cluj.techfest.ro/) 
-
-
 Talks:
 ---
+
+- 01.11.2017 - Functional Reactive Programming with ReactiveCocoa - [Cluj TechFest](http://cluj.techfest.ro/), [Slides](https://www.slideshare.net/EliaszSawicki/tech-fest-81393430)
 
 - 21.10.2017 - Introduction to React Native - [Mobilization](http://2017.mobilization.pl/), [Slides](https://www.slideshare.net/secret/2FAXVS44FKK83L)  
 
