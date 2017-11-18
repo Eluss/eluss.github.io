@@ -14,10 +14,10 @@ Upcoming talks:
 
 - 27.11.2017 - The art of developing more in less time - how to not get caught by long build times? - Axel Springer Mobile Developers Day
 
-- 18.11.2017 - Introduction to React Native - [Kariera IT Gdansk](http://careercon.pl/konferencja/kariera-it-gdansk-18-11-2017/)
-
 Talks:
 ---
+
+- 18.11.2017 - Introduction to React Native - [Kariera IT Gdansk](http://careercon.pl/konferencja/kariera-it-gdansk-18-11-2017/), [Slides](https://www.slideshare.net/EliaszSawicki/tech-fest-81393430)  
 
 - 01.11.2017 - Functional Reactive Programming with ReactiveCocoa - [Mobile Unplugged](http://www.iquestgroup.com/en/event/mobile-unplugged-2017/), [Slides](https://www.slideshare.net/EliaszSawicki/tech-fest-81393430)
 
