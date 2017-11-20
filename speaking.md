@@ -23,6 +23,8 @@ Talks:
 
 - 21.10.2017 - Introduction to React Native - [Mobilization](http://2017.mobilization.pl/), [Slides](https://www.slideshare.net/secret/2FAXVS44FKK83L)  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UOG0Hua4N1c" frameborder="0" allowfullscreen></iframe>
+
 - 06.10.2017 - The art of developing more in less time - how to not get caught by long build times? - [Mobiconf](https://2017.mobiconf.org/), [Slides](https://www.slideshare.net/secret/4i16nX6azn5RG3)
 
 - 12.04.2017 - Flying away from the nest (Bye bye UIKit) - [CocoaHeads Tricity](https://www.facebook.com/CocoaHeadsTricity/), [Slides](https://speakerdeck.com/eluss/flying-away-from-the-nest-bye-bye-uikit)
