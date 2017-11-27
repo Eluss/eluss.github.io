@@ -9,13 +9,10 @@ Speaking
 
 I really enjoy learning new things and sharing my knowledge in various ways, that's why besides running my blog I'm always eager to attend meetups and meet other passionate people.
 
-Upcoming talks:
----
-
-- 27.11.2017 - The art of developing more in less time - how to not get caught by long build times? - Axel Springer Mobile Developers Day
-
 Talks:
 ---
+
+- 27.11.2017 - The art of developing more in less time - how to not get caught by long build times? - Axel Springer Mobile Developers Day, [Slides](https://www.slideshare.net/secret/eB8vg0PJZXYStu)
 
 - 18.11.2017 - Introduction to React Native - [Kariera IT Gdansk](http://careercon.pl/konferencja/kariera-it-gdansk-18-11-2017/), [Slides](https://www.slideshare.net/secret/2FAXVS44FKK83L)
 
