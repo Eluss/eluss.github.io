@@ -24,6 +24,8 @@ Talks:
 
 - 06.10.2017 - The art of developing more in less time - how to not get caught by long build times? - [Mobiconf](https://2017.mobiconf.org/), [Slides](https://www.slideshare.net/secret/4i16nX6azn5RG3)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YooX-DdiMns" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 - 12.04.2017 - Flying away from the nest (Bye bye UIKit) - [CocoaHeads Tricity](https://www.facebook.com/CocoaHeadsTricity/), [Slides](https://speakerdeck.com/eluss/flying-away-from-the-nest-bye-bye-uikit)
 
 - 30.03.2017 - Introduction to Functional Reactive Programming - [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers), [Video](https://skillsmatter.com/skillscasts/9545-introduction-to-functional-reactive-programming), [Slides](https://www.slideshare.net/EliaszSawicki/ioscon)
