@@ -2,7 +2,7 @@
 layout: post
 title: The human side of software development
 category: blog
-header: /assets//images/human-side-of-software-development/human-side.jpeg
+header: /assets/images/human-side-of-software-development/human-side.jpeg
 excerpt: Getting into the world of software development can be a really demanding task. Introducing clean code, providing tests to your solution, using the right tool for the job, keeping up with latest trends... these are all things that you were most probably told about at the time that you barely knew what programming was. It seems that many people tend to neglect the side of development that hasn't got too much to do with machines...
 ---
 
@@ -39,4 +39,4 @@ So protect your free time and spend it with your family, friends or simply relax
 ## Conclusion
 I know that points that I've mentioned here may barely touch the surface of the iceberg, but I hope that they will make you more aware of the fact that software development is not only about programming - it's also about people. In the end it's us who build the software development community. As developers we are responsible for raising a culture around us that will allow others to grow and make them feel valuable.  
 
-This article is cross-posted with my [my company blog](http://blog.brightinventions.pl/)
+This article is cross-posted with [my company blog](http://blog.brightinventions.pl/)
