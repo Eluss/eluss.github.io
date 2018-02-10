@@ -6,20 +6,19 @@ layout: page
     <img class="title-image" src="{{ page.image }}" alt="{{ page.title }}">
 {% endif %}
 
+
 <h1 class="title">{{ page.title }}</h1>
+
+<div class="tags">
+        {% for tag in page.tags %}
+        <a class="tag-item" href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">{{ tag }}</a>
+        {% endfor %}
+</div>
 
 <span class="date">
     <time datetime="{{ page.date | date:"%d-%m-%Y" }}">{{ page.date | date: "%A. %B %d, %Y" }}</time>
     {% if site.read-time %} - {% include read-time.html %}{% endif %}
 </span>
-
-{% if site.show-tags %}
-    <div class="post-tags">
-        {% for tag in page.tags %}
-            <a class="item" href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">{{ tag }}</a>
-        {% endfor %}
-    </div>
-{% endif %}
 
 {{content}}
 
