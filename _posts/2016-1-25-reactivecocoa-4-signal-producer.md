@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ReactiveCocoa 4 - SignalProducer
+tags: [Swift, iOS, ReactiveCocoa, reactive]
 category: blog
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: PureLayout vs SnapKit - Great confrontation
 category: blog
+tags: [Swift, iOS, layout]
 header: /assets/images/purelayout-snapkit-header.jpg
 excerpt: At first, let me clear something out. I'm heavy PureLayout user. I've been creating my UIs in code for some time now and it's not looking like I'm going back to...
 ---

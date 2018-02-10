@@ -2,6 +2,7 @@
 layout: post
 title: React Native - 4 steps to improve your workflow as mobile developer
 category: blog
+tags: [react native]
 header: /assets//images/react-native-a-better-workflow/happy.jpeg
 excerpt: A developer needs tools that support her/his workflow to be fully productive. Well, I guess that this statement fits to any profession that you can think of. It is really important for me to feel that the environment...
 ---

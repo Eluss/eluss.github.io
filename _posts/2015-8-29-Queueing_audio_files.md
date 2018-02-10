@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Queueing audio files with AVQueuePlayer
+tags: [Swift, iOS, audio]
 category: blog
 ---
 

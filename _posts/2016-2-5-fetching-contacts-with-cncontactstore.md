@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fetching contacts with CNContactStore
+tags: [Swift, iOS]
 category: blog
 ---
  

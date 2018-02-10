@@ -2,6 +2,7 @@
 layout: post
 title: PureLayout vs NSLayoutAnchor - Great confrontation
 category: blog
+tags: [Swift, iOS, layout]
 header: /assets/images/purelayout-vs-anchor-header.jpeg
 excerpt: Last week I've made basic comparison between two libraries that will help you layout your interfaces - PureLayout and SnapKit...
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Git Daily Update
+tags: [git]
 category: blog
 ---
 

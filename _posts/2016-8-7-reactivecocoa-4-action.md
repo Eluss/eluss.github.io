@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ReactiveCocoa 4 - Action
+tags: [Swift, iOS, ReactiveCocoa, reactive]
 category: blog
 ---
 

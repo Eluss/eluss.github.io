@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Heartbeat button
+tags: [Swift, iOS]
 category: blog
 ---
 

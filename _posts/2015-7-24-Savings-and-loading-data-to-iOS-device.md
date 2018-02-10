@@ -1,6 +1,7 @@
 ---
 layout: post
 title: NSKeyedArchiver/Unarchiver
+tags: [Objective-C, iOS, NSKeyedArchiver]
 category: blog
 ---
 Lately I've spent some time wrtiting an app for myself. It is supposed to let you create tasks, mark them as done/undone and then track your progress. I've called it "Habit Tracker" and it is available

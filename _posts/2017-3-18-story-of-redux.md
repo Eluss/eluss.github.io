@@ -2,6 +2,7 @@
 layout: post
 title: Redux - How do I understand it?
 category: blog
+tags: [redux]
 header: /assets/images/redux/header.jpg
 excerpt: When you meet Redux for the first time, it often seems a bit overwhelming at first. However, if you want to work with redux effectively, you have to understand how it works...
 ---

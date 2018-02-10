@@ -2,6 +2,7 @@
 layout: post
 title: Are your views dumb enough? — A way to run your tests without simulator
 category: blog
+tags: [Swift, iOS]
 header: /assets/images/are-views-dumb-enough/turbo.jpeg
 excerpt: Hi! As you can see, the title of this post consists of two parts. “Are your views dumb enough” refers to managing code between your classes in project...
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Swift files generator
+tags: [Swift, iOS]
 category: blog
 ---
 

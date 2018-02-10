@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Data transfer between Apple Watch and iPhone
+tags: [Swift, iOS, Apple Watch]
 category: blog
 ---
 

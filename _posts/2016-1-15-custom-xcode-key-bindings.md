@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Custom XCode key bindings  
+tags: [Swift, iOS, Xcode]
 category: blog
 ---
 When I started writing Swift code, I found out that my beloved IDE(AppCode) for Objective-C, was not doing as well as I thought it would. Moreover, I've noticed that XCode did better job in terms of handling CocoaPods, autocompletion, debugging etc. It was more than enough for me to say sorry to XCode and leave AppCode for some time to let it solve it's problems. I really miss it's Objective-C features like code refactoring and it's ability to generate code, but there is no place for sentimentality. Currently I'm proud user of XCode 7.3 beta and I really like it's new autocompletion feature.

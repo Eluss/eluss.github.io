@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Open source by default
+tags: [opensource]
 category: blog
 ---
 

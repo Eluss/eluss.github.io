@@ -2,6 +2,7 @@
 layout: post
 title: 3 Reasons for my affair with React-Native
 category: blog
+tags: [react native]
 header: /assets/images/3-reasons-for-my-affair-with-react-native/love_hands.jpg
 excerpt: I’ve been an iOS developer for some time now and most of my previous posts were touching the aspects of iOS platform. However, I have to admit something…
 ---

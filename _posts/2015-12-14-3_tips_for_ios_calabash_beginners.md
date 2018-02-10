@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 3 tips for iOS Calabash beginners
+tags: [iOS, UI testing, calabash]
 category: blog
 ---
 

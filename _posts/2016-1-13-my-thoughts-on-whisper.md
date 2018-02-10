@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My thoughts on - Whisper
+tags: [Swift, iOS]
 category: blog
 ---
 

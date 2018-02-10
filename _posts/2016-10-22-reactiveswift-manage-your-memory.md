@@ -2,6 +2,7 @@
 layout: post
 title: ReactiveSwift - Manage your memory!
 category: blog
+tags: [Swift, iOS, ReactiveSwift, reactive]
 header: /assets/images/manage-memory.jpeg
 excerpt: Memory management is a pretty important issue when talking about any kind of system. You can't pretend that your resources are unlimited, and give them out no matter what. When working with...
 ---
