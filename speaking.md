@@ -9,6 +9,10 @@ Speaking
 
 I really enjoy learning new things and sharing my knowledge in various ways, that's why besides running my blog I'm always eager to attend meetups and meet other passionate people.
 
+Upcoming talks:
+---
+- 23.03.2018 - The art of developing more in less time - how to not get caught by long build times? - [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers)
+
 Talks:
 ---
 

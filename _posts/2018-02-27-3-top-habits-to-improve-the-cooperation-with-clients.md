@@ -2,15 +2,14 @@
 layout: post
 title: 3 top habits to improve the cooperation with clients
 category: blog
-tags: [habits, cooperation, planning]
 comments: true
-header: /assets/images/3-habits-to-improve-cooperation-wth-clients/clients.jpeg
-excerpt: There is always a room for improvement regarding the service that we deliver to our clients.
-In this post I describe 3 habits that I consider really helpful in order to work effectively with clients.
+tags: [habits, cooperation, planning]
+header: /assets/images/3-habits-to-improve-cooperation-wth-clients/clients.jpeg  
+excerpt: There is always a room for improvement regarding the service that we deliver to our clients. In this post I describe 3 habits that I consider really helpful in order to work effectively with clients.  
 ---
 
 There is always a room for improvement regarding the service that we deliver to our clients.
-In this post I describe 3 habits that I consider really helpful in order to work effectively with clients.
+In this post I describe 3 habits that I consider really helpful in order to work effectively with clients.  
 
 ![clients](/assets/images/3-habits-to-improve-cooperation-wth-clients/clients.jpeg)
 
