@@ -9,12 +9,11 @@ Speaking
 
 I really enjoy learning new things and sharing my knowledge in various ways, that's why besides running my blog I'm always eager to attend meetups and meet other passionate people.
 
-Upcoming talks:
----
-- 23.03.2018 - The art of developing more in less time - how to not get caught by long build times? - [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers)
 
 Talks:
 ---
+
+- 23.03.2018 - The art of developing more in less time - how to not get caught by long build times? - [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers), [Slides](https://www.slideshare.net/EliaszSawicki/developing-more-in-less-time)
 
 - 27.11.2017 - The art of developing more in less time - how to not get caught by long build times? - Axel Springer Mobile Developers Day, [Slides](https://www.slideshare.net/secret/eB8vg0PJZXYStu)
 
