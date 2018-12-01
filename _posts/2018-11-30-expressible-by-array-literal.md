@@ -10,6 +10,8 @@ excerpt: I recently noticed a pretty nice mechanism which may come in handy in s
 
 I recently noticed a pretty nice mechanism which may come in handy in some situations ;)
 
+![kitty](/assets/images/expressible-by-array-literal/expressible-by-array-literal.jpeg)
+
 Let's imagine we have a `Team` structure that needs a configuration in order to be initialized. 
 If we want to get some information about the team, we will simply call `team.info()`.
 {% highlight swift %}
