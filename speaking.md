@@ -13,7 +13,7 @@ I really enjoy learning new things and sharing my knowledge in various ways, tha
 Talks:
 ---
 
-- 28.06.2019 - Kickstart your app with lenses - [MeetupIT](https://www.meetupit.pl/), [Slides](https://www.slideshare.net/EliaszSawicki/eliasz-sawickimeetupit)  
+- 28.06.2019 - Kickstart your app with lenses - [MeetupIT](https://www.meetupit.pl/), [Slides](https://www.slideshare.net/EliaszSawicki/eliasz-sawickimeetupit), [Demo Code](https://gist.github.com/Eluss/31bd886cda4efea404d29e4dc242372a)
 
 - 08.04.2019 - Podróż w czasie z architekturą Redux - [4Developers](https://4developers.org.pl/) , [Slides](https://www.slideshare.net/EliaszSawicki/redux-4developers)  
 
