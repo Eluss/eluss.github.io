@@ -13,6 +13,12 @@ I really enjoy learning new things and sharing my knowledge in various ways, tha
 Talks:
 ---
 
+- 28.06.2019 - Kickstart your app with lenses - [MeetupIT](https://www.meetupit.pl/), [Slides](https://www.slideshare.net/EliaszSawicki/eliasz-sawickimeetupit)  
+
+- 08.04.2019 - Podróż w czasie z architekturą Redux - [4Developers](https://4developers.org.pl/) , [Slides](https://www.slideshare.net/EliaszSawicki/redux-4developers)  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WpaY9N32x6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - 23.03.2018 - The art of developing more in less time - how to not get caught by long build times? - [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers), [Slides](https://www.slideshare.net/EliaszSawicki/developing-more-in-less-time)
 
 - 27.11.2017 - The art of developing more in less time - how to not get caught by long build times? - Axel Springer Mobile Developers Day, [Slides](https://www.slideshare.net/secret/eB8vg0PJZXYStu)
