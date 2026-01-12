@@ -1,0 +1,24 @@
+---
+layout: page
+title: DevLog
+---
+<section class="devlog-list">
+	{% assign devlog_posts = site.posts | where: "category", "devlog" %}
+	{% if devlog_posts.size == 0 %}
+		<p class="text-center">Nothing published yet!</p>
+	{% else %}
+		{% assign grouped_posts = devlog_posts | where_exp: "post", "post.hidden != true" | group_by_exp: "post", "post.date | date: '%Y-%m'" %}
+		{% for group in grouped_posts %}
+			{% assign year_month = group.name | split: "-" %}
+			{% assign year = year_month[0] %}
+			{% assign month_num = year_month[1] %}
+			{% assign month_date = group.items.first.date %}
+			<div class="devlog-month-group">
+				<h2 class="devlog-month-header">{{ month_date | date: "%B %Y" }}</h2>
+				{% for post in group.items %}
+					{% include devlog-post.html %}
+				{% endfor %}
+			</div>
+		{% endfor %}
+	{% endif %}
+</section>

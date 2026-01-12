@@ -1,0 +1,32 @@
+---
+layout: page
+---
+
+<article class="devlog-entry">
+    <h1 class="title">{{ page.title }}</h1>
+
+    <div class="devlog-meta">
+        <time datetime="{{ page.date | date:"%d-%m-%Y" }}">{{ page.date | date: "%b %d, %Y" }}</time>
+        {% if page.tags.size > 0 %}
+        <span class="meta-separator">|</span>
+        <div class="tags">
+            {% for tag in page.tags %}
+            <a class="tag-item" href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">{{ tag }}</a>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </div>
+
+    <div class="devlog-content">
+        {{ content }}
+    </div>
+
+    {% if page.source %}
+    <div class="devlog-source">
+        <span class="source-label">Source:</span>
+        <a href="{{ page.source }}" target="_blank" rel="noopener">{{ page.source_title | default: page.source }}</a>
+    </div>
+    {% endif %}
+
+    <a class="devlog-back" href="{{ site.baseurl }}/devlog">&larr; Back to DevLog</a>
+</article>

@@ -1,6 +1,6 @@
 # main text of home
 name: Eliasz Sawicki
-bio: iOS developer from Gdansk
+bio: iOS developer
 
 # twitter summary info
 # description: iOS developer from Gdansk
@@ -82,6 +82,7 @@ width: normal
 about: true
 blog: true
 speaking: true
+devlog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true

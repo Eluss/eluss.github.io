@@ -1,0 +1,125 @@
+// Speaking page styles - Card layout and Timeline layout
+
+.speaking-intro
+    margin-bottom: 30px
+    font-size: 1.05em
+    line-height: 1.7
+    color: $alpha
+
+    p
+        margin: 0
+
+.speaking-section
+    margin-bottom: 50px
+
+    > h2
+        font-size: 1.4em
+        font-weight: 600
+        color: $beta
+        margin-bottom: 25px
+        padding-bottom: 10px
+        border-bottom: 2px solid $delta
+
+.talk-cards
+    display: flex
+    flex-direction: column
+    gap: 20px
+
+.talk-card
+    background: #fafafa
+    border: 1px solid $epsilon
+    border-left: 3px solid $delta
+    border-radius: 0 6px 6px 0
+    overflow: hidden
+    transition: box-shadow 0.2s ease
+
+    &:hover
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08)
+
+    &.workshop
+        border-left-color: #2ecc71
+
+.talk-content
+    padding: 20px
+
+.talk-title
+    margin: 0 0 10px 0
+    font-size: 1.15em
+    font-weight: 600
+    color: $beta
+    line-height: 1.4
+
+.talk-meta
+    display: flex
+    flex-wrap: wrap
+    gap: 8px
+    margin-bottom: 15px
+    font-size: 0.9em
+    color: $gama
+
+.talk-date
+    &:after
+        content: "•"
+        margin-left: 8px
+        color: $epsilon
+
+.talk-venue
+    color: $alpha
+
+.talk-links
+    display: flex
+    flex-wrap: wrap
+    gap: 8px
+
+.talk-link
+    display: inline-block
+    padding: 6px 12px
+    font-size: 0.85em
+    color: $delta
+    background: white
+    border: 1px solid $delta
+    border-radius: 4px
+    text-decoration: none
+    transition: all 0.2s ease
+
+    &:hover
+        background: $delta
+        color: white
+
+.talk-video
+    position: relative
+    padding-bottom: 56.25%
+    height: 0
+    overflow: hidden
+    background: #000
+
+    iframe
+        position: absolute
+        top: 0
+        left: 0
+        width: 100%
+        height: 100%
+        border: none
+
+// Responsive adjustments
+@media #{$below}
+    .talk-content
+        padding: 15px
+
+    .talk-title
+        font-size: 1.05em
+
+    .talk-meta
+        flex-direction: column
+        gap: 4px
+
+    .talk-date:after
+        display: none
+
+@media #{$mobile}
+    .talk-links
+        flex-direction: column
+
+    .talk-link
+        text-align: center
+

@@ -1,6 +1,7 @@
 .home,
 .blog,
-.projects
+.projects,
+.devlog
     margin-top: 125px
 
     > .list
@@ -89,5 +90,158 @@
     width: 70%      
 
 .post-only-description
-    position: relative      
+    position: relative
+
+// DevLog styles - compact TIL entries with code focus
+.devlog-list
+    border-top: 1px solid $epsilon
+    margin-top: 30px
+    padding-top: 20px
+    position: relative
+
+    &:before
+        display: block
+        content: " "
+        width: 7px
+        height: 7px
+        border: $epsilon 1px solid
+        position: absolute
+        top: -5px
+        left: 50%
+        margin-left: -5px
+        background: #FFF
+        box-shadow: #FFF 0 0 0 5px
+        border-radius: 3px
+
+.devlog-month-group
+    margin-bottom: 30px
+
+.devlog-month-header
+    font-size: 1.1em
+    font-weight: 600
+    color: $alpha
+    margin: 0 auto 15px
+    padding-bottom: 8px
+    border-bottom: 2px solid $delta
+    width: 95%
+
+.devlog-item
+    display: block
+    width: 95%
+    margin: 0 auto 20px
+    padding: 20px
+    background: #fafafa
+    border-left: 3px solid $delta
+    border-radius: 0 4px 4px 0
+
+    &:last-child
+        margin-bottom: 0
+
+.devlog-item-header
+    display: flex
+    justify-content: space-between
+    align-items: baseline
+    flex-wrap: wrap
+    margin-bottom: 12px
+
+    .url
+        text-decoration: none
+
+    .title
+        margin: 0
+        font-size: 1.15em
+        font-weight: 600
+        color: $beta
+        transition: color ease-in-out .2s
+
+    .url:hover .title
+        color: $delta
+
+    .date
+        font-size: 0.85em
+        color: $gama
+        white-space: nowrap
+
+.devlog-item-content
+    font-size: 0.95em
+    line-height: 1.6
+    color: $alpha
+
+    p
+        margin: 0 0 10px
+        &:last-child
+            margin-bottom: 0
+
+.devlog-item-footer
+    display: flex
+    justify-content: space-between
+    align-items: center
+    flex-wrap: wrap
+    margin-top: 12px
+    padding-top: 10px
+    border-top: 1px solid $epsilon
+
+    .tags
+        margin: 0
+
+.devlog-source
+    font-size: 0.85em
+    color: $gama
+
+    .source-label
+        font-weight: 500
+
+    a
+        color: $delta
+        text-decoration: none
+        &:hover
+            text-decoration: underline
+
+// Individual devlog entry page
+.devlog-entry
+    .title
+        margin-bottom: 10px
+
+    .devlog-meta
+        display: flex
+        align-items: center
+        flex-wrap: wrap
+        gap: 8px
+        margin-bottom: 25px
+        font-size: 0.9em
+        color: $gama
+
+        .meta-separator
+            color: $epsilon
+
+        .tags
+            display: inline-flex
+            gap: 5px
+
+    .devlog-content
+        font-size: 1.05em
+        line-height: 1.7
+
+    .devlog-source
+        margin-top: 25px
+        padding: 12px 15px
+        background: #f5f5f5
+        border-radius: 4px
+        font-size: 0.9em
+
+        .source-label
+            font-weight: 600
+            margin-right: 5px
+
+        a
+            color: $delta
+
+    .devlog-back
+        display: inline-block
+        margin-top: 30px
+        color: $alpha
+        text-decoration: none
+        font-size: 0.9em
+        &:hover
+            color: $delta
 
