@@ -2,6 +2,8 @@
 layout: page
 title: DevLog
 ---
+<p class="devlog-subtitle">Experimental dev diary for tracking interesting things</p>
+
 <section class="devlog-list">
 	{% assign devlog_posts = site.posts | where: "category", "devlog" %}
 	{% if devlog_posts.size == 0 %}
